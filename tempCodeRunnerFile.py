@@ -1,0 +1,1 @@
+Turtle.shape("square")
